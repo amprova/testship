@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1464068979 source:f:\7th sem\computer graphics lab\lab_project_iqra_19\testship\main.cpp
+	<windows.h>
+	<gl\gl.h>
+	<gl\glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
